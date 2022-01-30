@@ -4,7 +4,7 @@ public class HomeWork5 {
 
     public static void main(String[] args) {
         Employee[] employees = new Employee[5];
-        employees[0] = new Employee("Андреей", "Андреевич", "Андреев", 1979, "aaa@mail.com", "1-111-111-11-11", "Кассир", 15000);
+        employees[0] = new Employee("Андрей", "Андреевич", "Андреев", 1979, "aaa@mail.com", "1-111-111-11-11", "Кассир", 15000);
         employees[1] = new Employee("Борис", "Борисович", "Борисов", 1980, "bbb@mail.com", "2-222-222-22-22", "Бухгалтер", 25000);
         employees[2] = new Employee("Валерий", "Валерьевич", "Валерьев", 1981, "vvv@mail.com", "3-333-333-33-33", "Грузчик", 13000);
         employees[3] = new Employee("Ганнадий", "Ганнадьевич", "Ганнадьев", 1982, "ggg@mail.com", "4-444-444-44-44", "Директор", 35000);
